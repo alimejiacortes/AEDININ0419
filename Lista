@@ -1,2 +1,3 @@
 //En este archivo simplemente van a escribir su nombre como si quisieran que se escribiera en la consola.
 Debug.Log("Ali Mejía");
+Debug.Log("Industria Interactiva AED 0419");
