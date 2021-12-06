@@ -1,0 +1,2 @@
+//En este archivo simplemente van a escribir su nombre como si quisieran que se escribiera en la consola.
+Debug.Log("Ali Mejía");
